@@ -28,30 +28,6 @@ proyecto integrador/
 └── README.MD     # Esta documentación
 ```
 
----
-
-## 🚀 Cómo usar
-
-### Abrir directamente
-
-1. Abre la carpeta `proyecto integrador`.
-2. Haz doble click en `index.html` o arrastra al navegador.
-
-### Con servidor local (recomendado)
-
-**Python 3:**
-```powershell
-python -m http.server 8000
-# Abre http://localhost:8000
-```
-
-**Node.js:**
-```powershell
-npm install -g http-server
-http-server
-```
-
----
 
 ## 🛠️ Tecnología
 
